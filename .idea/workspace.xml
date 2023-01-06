@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f1e251d-45a2-4310-b856-7328d87bf8f4" name="Changes" comment="&quot;Added new file and a comment in mysql_connector.py&quot;">
+    <list default="true" id="5f1e251d-45a2-4310-b856-7328d87bf8f4" name="Changes" comment="&quot;added a random2 file&quot;">
       <change afterPath="$PROJECT_DIR$/random.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="branch_from_master" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -82,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672988715449</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;added a random file&quot;">
+      <created>1672998861899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672998861899</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;added a random2 file&quot;">
+      <created>1672999122803</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672999122803</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +137,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Added new file and a comment in mysql_connector.py&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Added new file and a comment in mysql_connector.py&quot;" />
+    <MESSAGE value="&quot;added a random file&quot;" />
+    <MESSAGE value="&quot;added a random2 file&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;added a random2 file&quot;" />
   </component>
 </project>
