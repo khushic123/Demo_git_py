@@ -8,6 +8,7 @@ mycursor.execute("select * from student")
 
 result = mycursor.fetchall()
 
+#either we can use this or use result
 # for i in mycursor:
 #     print(i)
 
