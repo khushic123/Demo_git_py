@@ -2,6 +2,9 @@ import time
 from math import *
 
 
+#These are functions in which we pass a func as an arguement to contol the behavior of that function without
+#changing the real code for it. In this we have a wrapper func also which basically call the arguement.
+
 def sub(a, b):
     print("I am in original subtract function")
     return a - b
@@ -12,6 +15,7 @@ def sub(a, b):
 def modified_sub(subtract):
     def modify(*args, **kwargs):
         print("Enter in modified func")
+        print(args)
         res = subtract(*args, **kwargs)
         res = abs(res)
         print("Exit from modified func")
