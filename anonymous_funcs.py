@@ -1,5 +1,6 @@
 from functools import reduce
 
+#This was to learn about anonymous functions like lamba read about it more from gfg.
 L = [1, 2, 3, 4, 5]
 
 f = lambda l, m: l + m

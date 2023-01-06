@@ -1,5 +1,6 @@
 from numpy import *
 
+#Basically were just practcicng coding in python and using arrays and lists
 
 # print fibonacci
 
